@@ -12,24 +12,24 @@ h2 {
 	color: blueviolet;
 }
 
-.blok_1 p {
+.blok-1 p {
 	color: brown;
 }
 
-.text_1,
-.text_2 {
+.text-1,
+.text-2 {
 	color: aqua;
 }
 
-.block_2>p {
+.block-2>p {
 	color: blue;
 }
 
-.tex_3 {
+.tex-3 {
 	color: brown;
 }
 
-.marker_1,
-.marker_2 {
+.marker-1,
+.marker-2 {
 	color: black;
 }
