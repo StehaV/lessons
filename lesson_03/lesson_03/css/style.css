@@ -1,0 +1,35 @@
+@import url("reset.css");
+
+.title {
+	color: blueviolet;
+}
+
+div.head {
+	color: rgb(255, 115, 0);
+}
+
+h2 {
+	color: blueviolet;
+}
+
+.blok_1 p {
+	color: brown;
+}
+
+.text_1,
+.text_2 {
+	color: aqua;
+}
+
+.block_2>p {
+	color: blue;
+}
+
+.tex_3 {
+	color: brown;
+}
+
+.marker_1,
+.marker_2 {
+	color: black;
+}
